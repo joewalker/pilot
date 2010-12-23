@@ -1,5 +1,6 @@
-Cockpit Command Line
-====================
+Pilot Library
+=============
 
-Cockpit is a command line component. It is used in Ace/Skywriter/Cloud9/etc
-It can be easily embedded in any web page and JavaScript application.
+Pilot is a small library used in the creation of
+Ace/Skywriter/Cloud9/Cockpit/etc.
+
