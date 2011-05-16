@@ -21,7 +21,7 @@
         }
     },
     "licenses": [{
-        "type": "LGPLv3",
-        "url": "http://www.gnu.org/licenses/lgpl-3.0.txt"}
+        "type": "LGPLv21",
+        "url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"}
     ]
 }
